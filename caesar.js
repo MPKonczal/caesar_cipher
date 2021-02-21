@@ -1,3 +1,8 @@
+const SHIFT = 13;
+const ALPHABET = "abcdefghijklmnopqrstuvwxyz";
+const upperCaseRegex = /[A-Z]/;
+const regexWithoutLettersAndNumbers = /\W/;
+
 function validate(input) {
   if (typeof input !== "string") {
     throw new Error("The parameter is not of type string.");
