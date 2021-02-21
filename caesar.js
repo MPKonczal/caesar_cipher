@@ -31,3 +31,5 @@ function caesar(text) {
 
   return result.join("");
 }
+
+export default caesar;
