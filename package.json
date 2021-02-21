@@ -1,0 +1,20 @@
+{
+  "name": "caesar_cipher",
+  "version": "1.0.0",
+  "description": "The Caesar cipher is a simple and popular data encryption technique.\r It is based on shifting letters in the alphabet (currently using a shift of 13 letters - ROT13).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MPKonczal/caesar_cipher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MPKonczal/caesar_cipher/issues"
+  },
+  "homepage": "https://github.com/MPKonczal/caesar_cipher#readme"
+}
